@@ -2,7 +2,7 @@
 
 <h1>Time Video</h1>
 
-<p>Time Video is a simple script to sum the time of a video.</p>
+<p>Time Video is a simple script to sum the time of videos.</p>
 
 </div>
  
